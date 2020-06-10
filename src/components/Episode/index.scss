@@ -1,0 +1,35 @@
+.container {
+  position: relative;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.plain {
+  font-size: 32px;
+}
+
+.count {
+  font-size: 60px;
+  line-height: 60px;
+  margin-right: 14px;
+  font-weight: 800px;
+}
+
+.dateContainer {
+  border-left: 1px solid black;
+  padding-left: 16px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  bottom: 28px;
+}
+
+.month {
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.year {
+  font-size: 20px;
+}

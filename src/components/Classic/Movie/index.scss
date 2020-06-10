@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imageShow {
+  width: 750px;
+  height: 500px;
+}
+
+.imageTag {
+  position: relative;
+  width: 46px;
+  height: 142px;
+  right: 310px;
+  bottom: 58px;
+}
+
+.content {
+  font-size: 36px;
+  max-width: 550px;
+}

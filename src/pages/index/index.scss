@@ -1,0 +1,17 @@
+.header {
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  border-top: 1px solid #f5f5f5;
+  border-bottom: 1px solid #f5f5f5;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.episode {
+  margin-left: 20px;
+  margin-top: 20px;
+}
