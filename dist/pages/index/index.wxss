@@ -1,3 +1,8 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .header {
   height: 100rpx;
   display: flex;
@@ -13,4 +18,7 @@
 .episode {
   margin-left: 20rpx;
   margin-top: 20rpx;
+}
+.footer {
+  margin-top: 100rpx;
 }

@@ -1,9 +1,3 @@
 <block wx:if="{{$taroCompReady}}">
-    <view class="index">
-        <view class="header">
-            <episode episode-class="episode" compid="{{$compid__3}}"></episode>
-            <like compid="{{$compid__4}}"></like>
-        </view>
-        <movie compid="{{$compid__5}}"></movie>
-    </view>
+    <view class="container">123</view>
 </block>

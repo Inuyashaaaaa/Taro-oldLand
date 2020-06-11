@@ -1,5 +1,0 @@
-<block wx:if="{{$taroCompReady}}">
-    <view class="container">
-        <image src="{{likeStatus ? LikeImg : UnLikeImg}}" class="image"></image><text class="text">{{anonymousState__temp}}</text>
-    </view>
-</block>

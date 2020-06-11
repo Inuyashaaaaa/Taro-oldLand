@@ -1,6 +1,0 @@
-<block wx:if="{{$taroCompReady}}">
-    <view class="{{klass}}"><text class="plain">No.</text><text class="count">{{number}}</text>
-        <view class="dateContainer"><text class="month">{{episodeMonth}}</text><text class="year">{{episodeYear}}</text>
-        </view>
-    </view>
-</block>

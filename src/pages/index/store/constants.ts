@@ -1,0 +1,1 @@
+export const GET_LATEST_DATA = 'index/GET_LATEST_DATA'

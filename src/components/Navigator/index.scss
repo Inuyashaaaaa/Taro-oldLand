@@ -1,0 +1,19 @@
+.container {
+  width: 600px;
+  height: 80px;
+  background-color: #f7f7f7;
+  border-radius: 2px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.icon {
+  height: 80px;
+  width: 80px
+}
+
+.title {
+  font-size: 28px;
+}

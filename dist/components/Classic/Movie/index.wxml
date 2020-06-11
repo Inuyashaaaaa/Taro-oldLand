@@ -1,6 +1,0 @@
-<block wx:if="{{$taroCompReady}}">
-    <view class="container">
-        <image src="{{imageUrl}}" class="imageShow"></image>
-        <image src="{{movieTag}}" class="imageTag"></image><text class="content">{{content}}</text>
-    </view>
-</block>

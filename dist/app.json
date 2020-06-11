@@ -1,1 +1,9 @@
-{"pages":["pages/index/index","pages/book/book"],"window":{"backgroundTextStyle":"light","navigationBarBackgroundColor":"#fff","navigationBarTitleText":"WeChat","navigationBarTextStyle":"black"},"tabBar":{"list":[{"pagePath":"pages/index/index","iconPath":"./images/tabBar/index.png","selectedIconPath":"./images/tabBar/indexIn.png","text":"流行"},{"pagePath":"pages/book/book","iconPath":"./images/tabBar/book.png","selectedIconPath":"./images/tabBar/bookIn.png","text":"书籍"}]}}
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
